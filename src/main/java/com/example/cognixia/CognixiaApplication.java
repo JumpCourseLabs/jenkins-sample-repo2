@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CognixiaApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World from Webhook again");
+		System.out.println("Hello World from Webhook again!");
 		SpringApplication.run(CognixiaApplication.class, args);
 	}
 
